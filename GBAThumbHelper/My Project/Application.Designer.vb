@@ -32,7 +32,7 @@ Namespace My
 
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.GBAThumbHelper.Form1
+            Me.MainForm = Global.GBAThumbHelper.MnFrm
         End Sub
     End Class
 End Namespace

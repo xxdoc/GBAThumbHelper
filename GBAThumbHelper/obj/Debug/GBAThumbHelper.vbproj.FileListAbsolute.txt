@@ -1,1 +1,12 @@
 C:\Users\Gamer2020\Desktop\GBAThumbHelper\GBAThumbHelper\bin\Debug\GBAThumbHelper.exe.config
+C:\Users\Gamer2020\Documents\GitHub\GBAThumbHelper\GBAThumbHelper\bin\Debug\GBAThumbHelper.exe.config
+C:\Users\Gamer2020\Documents\GitHub\GBAThumbHelper\GBAThumbHelper\obj\Debug\GBAThumbHelper.vbprojResolveAssemblyReference.cache
+C:\Users\Gamer2020\Documents\GitHub\GBAThumbHelper\GBAThumbHelper\obj\Debug\GBAThumbHelper.MnFrm.resources
+C:\Users\Gamer2020\Documents\GitHub\GBAThumbHelper\GBAThumbHelper\obj\Debug\GBAThumbHelper.Resources.resources
+C:\Users\Gamer2020\Documents\GitHub\GBAThumbHelper\GBAThumbHelper\obj\Debug\GBAThumbHelper.vbproj.GenerateResource.Cache
+C:\Users\Gamer2020\Documents\GitHub\GBAThumbHelper\GBAThumbHelper\obj\Debug\GBAThumbHelper.xml
+C:\Users\Gamer2020\Documents\GitHub\GBAThumbHelper\GBAThumbHelper\bin\Debug\GBAThumbHelper.exe
+C:\Users\Gamer2020\Documents\GitHub\GBAThumbHelper\GBAThumbHelper\bin\Debug\GBAThumbHelper.pdb
+C:\Users\Gamer2020\Documents\GitHub\GBAThumbHelper\GBAThumbHelper\bin\Debug\GBAThumbHelper.xml
+C:\Users\Gamer2020\Documents\GitHub\GBAThumbHelper\GBAThumbHelper\obj\Debug\GBAThumbHelper.exe
+C:\Users\Gamer2020\Documents\GitHub\GBAThumbHelper\GBAThumbHelper\obj\Debug\GBAThumbHelper.pdb
